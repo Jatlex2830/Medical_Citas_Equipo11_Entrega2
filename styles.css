@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffaf0;
+  }
+  
+  .text-orange {
+    color: #131313;
+  }
+  
+  .border-orange {
+    border: 2px solid #ffad66 !important;
+  }
+  
+  .list-group-item {
+    background-color: transparent !important;
+  }
+  
+  .list-group-item a:hover {
+    text-decoration: underline;
+  }
